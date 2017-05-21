@@ -301,3 +301,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+Evolve/Evolve.vcxproj.filters
+Evolve.sln
+Evolve/Evolve.vcxproj
